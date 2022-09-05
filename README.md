@@ -43,11 +43,25 @@
 
 <h2>Screenshots </h2>
 
-![image](https://github.com/tornicke/team-profile-generator/blob/main/src/Screenshot_tests.png)
+<h3>All products</h3>
 
-![image](https://github.com/tornicke/team-profile-generator/blob/main/src/Screenshot_tests.png)
+![image](https://github.com/tornicke/e-commerce-back-end/blob/becbcbce220d3dc2b513f827dbb68e128542255b/images/Screenshot1.png)
 
-![image](https://github.com/tornicke/team-profile-generator/blob/main/src/Screenshot_tests.png)
+<h3>One product</h3>
+
+![image](https://github.com/tornicke/e-commerce-back-end/blob/becbcbce220d3dc2b513f827dbb68e128542255b/images/Screenshot2.png)
+
+<h3>Adding a new product</h3>
+
+![image](https://github.com/tornicke/e-commerce-back-end/blob/becbcbce220d3dc2b513f827dbb68e128542255b/images/Screenshot3.png)
+
+<h3>Updating an existing product</h3>
+
+![image](https://github.com/tornicke/e-commerce-back-end/blob/becbcbce220d3dc2b513f827dbb68e128542255b/images/Screenshot4.png)
+
+<h3>Deleting a product</h3>
+
+![image](https://github.com/tornicke/e-commerce-back-end/blob/becbcbce220d3dc2b513f827dbb68e128542255b/images/Screenshot5.png)
 
 <h2>Required URLs:</h2>
 
