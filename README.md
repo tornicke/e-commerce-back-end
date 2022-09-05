@@ -51,6 +51,6 @@
 
 <h2>Required URLs:</h2>
 
-[Walkthrough Video URL](https://drive.google.com/file/d/1wskmt3TITIJmHrpjysrIxfefI2p2IxXd/view?usp=sharing)
+[Walkthrough Video URL](https://drive.google.com/file/d/12PDXXKg1PuMunqQ8JDzuoeqQ4o1md-G2/view?usp=sharing)
 
 [GitHub repository URL](https://github.com/tornicke/e-commerce-back-end)
