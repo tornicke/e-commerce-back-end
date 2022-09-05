@@ -6,14 +6,14 @@ const ProductTag = require("./ProductTag");
 
 // Products belongsTo Category
 
-// Define a Category as having one License to create a foreign key in the `Product` table
+// Define a Category as having one Product to create a foreign key in the `Product` table
 Category.hasOne(Product, {
   foreignKey: "category_id",
   // When we delete a Category, make sure to also delete the associated Product.
-  //onDelete: "CASCADE", //! if uncommented, this will remove
+  //onDelete: "CASCADE", //! if uncommented, this will remove associated Products
 });
 
-// We can also define the association starting with License
+// We can also define the association starting with Products
 Product.belongsTo(Category, {
   foreignKey: "category_id",
 });
